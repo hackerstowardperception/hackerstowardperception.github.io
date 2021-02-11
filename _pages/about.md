@@ -1,9 +1,7 @@
 ---
 title:  "About"
-permalink: _pages/about/about.md
 header:
   image: "/assets/images/about.jpg"
-
 ---
 
 Welcome! My name is Sam Paredes (CoffeeJunkie), I am a cybersecurity student originally from Colombia and currently living in the US.

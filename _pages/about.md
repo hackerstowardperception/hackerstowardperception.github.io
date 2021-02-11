@@ -1,6 +1,6 @@
 ---
 title:  "About"
-permalink: _pages/about/
+permalink: _pages/about/about.md
 header:
   image: "/assets/images/about.jpg"
 
